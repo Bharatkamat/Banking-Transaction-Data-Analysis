@@ -51,3 +51,10 @@ It demonstrates how banks use data for decision-making, customer insights, and f
 1. Install Python  
 2. Install required libraries:
 
+## 📊 Project Visualization
+
+### Category-wise Spending Chart
+![Spending Chart](image-1.png)
+
+### Power BI Dashboard
+![Dashboard](image.png)
