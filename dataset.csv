@@ -1,0 +1,9 @@
+CustomerID,TransactionAmount,Category,Date,Location
+C101,5000,Shopping,2024-01-12,Mumbai
+C102,12000,Electronics,2024-01-14,Delhi
+C103,300,Food,2024-01-15,Mumbai
+C104,25000,Travel,2024-01-20,Bangalore
+C101,7000,Shopping,2024-02-01,Mumbai
+C105,400,Food,2024-02-03,Pune
+C102,50000,Electronics,2024-02-10,Delhi
+C103,200,Food,2024-02-11,Mumbai
